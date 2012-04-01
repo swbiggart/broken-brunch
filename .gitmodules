@@ -1,0 +1,3 @@
+[submodule "app/assets/submodule"]
+	path = app/assets/submodule
+	url = git@github.com:swbiggart/test.git
